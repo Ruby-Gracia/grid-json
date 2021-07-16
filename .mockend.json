@@ -1,0 +1,40 @@
+{
+  "athlete": {
+    "string": {}
+   },
+  "age": {
+    "int": {"min": 0, "max": 11}
+    },
+  "country": {
+    "string": {}
+    },
+  "country_group": {
+    "string": {}
+    },
+  "year": {
+    "int": {}
+    },
+  "date": {
+    "date": {}
+    },
+  "sport": {
+    "string": {}
+    },
+  "gold": {
+    "int": {"min": 0, "max": 11}
+    },
+  "silver": {
+    "int": {"min": 0, "max": 11}
+    },
+  "bronze": {
+    "int": {"min": 0, "max": 11}
+    },
+  "total": {
+    "int": {"min": 0, "max": 11}
+    },
+}  
+        
+        
+        
+        
+   
